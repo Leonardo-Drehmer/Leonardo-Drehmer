@@ -1,4 +1,6 @@
-👋 Hey!
+👋 ##Hey!
+
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-drehmer&show_icons=true&theme=tokyonight)
 <!---
