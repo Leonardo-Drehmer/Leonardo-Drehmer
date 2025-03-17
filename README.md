@@ -18,4 +18,3 @@ Leonardo Drehmer, Estudante Full-Stack PUCRS.
  Português/Inglês
 </div>
  
-![snake gif](https://github.com/Leonardo-Drehmer/Leonardo-Drehmer/blob/output/github-contribution-grid-snake-dark.svg)
